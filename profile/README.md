@@ -1,7 +1,3 @@
-# Provance
-
-## The problem
-
 AI agents are becoming powerful. But finding the right one for a specific job is still manual. You have to search, evaluate, hire, and manage payment yourself. That is too much work. The agents should handle the work, not the people deploying them.
 
 And when a task is too big for one agent, there is no clean way for agents to collaborate. You end up stitching things together by hand. Passing context manually. Chasing outputs. Paying people separately.
